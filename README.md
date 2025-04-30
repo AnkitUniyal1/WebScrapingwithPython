@@ -36,7 +36,7 @@ The notebook successfully scrapes data from the target website and organizes it 
 ## 🌄 Screenshots
 
 ### 🔍 HTML Parsing in Action
-![HTML Parsing](image/Before.png)
+![HTML Parsing](image/Be.png)
 
 ### 📋 Final Extracted DataFrame
 ![Scraped Data](image/After.png)
